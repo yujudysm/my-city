@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "종로구",
+    "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/jongno.jpg",
+    "spots": [
+      {
+        "id": 1,
+        "name": "교보문고 광화문점",
+        "category": "서점",
+        "description": "1981년 문을 연 국내 대표 대형 서점. 완전 개가식 매장에서 다양한 분야의 책을 자유롭게 읽을 수 있고, 문구·잡화 매장도 함께 있다.",
+        "address": "서울 종로구 종로 1 교보생명빌딩 지하 1층",
+        "hours": "09:30 – 22:00 (설·추석 당일 휴점)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/kyobo.jpg"
+      },
+      {
+        "id": 2,
+        "name": "청계천",
+        "category": "명소",
+        "description": "도심 한가운데를 흐르는 하천으로, 시작점인 청계광장에는 폭포와 분수, 청계천 전 구간의 축소 모형이 있다. 밤에는 조명이 어우러져 산책하기 좋다.",
+        "address": "서울 종로구 서린동 14-1 청계광장 (청계천 시작점)",
+        "hours": "상시 개방 · 연중무휴 (무료)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/cheongge.jpg"
+      },
+      {
+        "id": 3,
+        "name": "경복궁",
+        "category": "명소",
+        "description": "태조 이성계가 조선 건국 후 북악산 아래에 지은 조선의 법궁. 광화문 수문장 교대의식과 근정전, 경회루 등을 볼 수 있다.",
+        "address": "서울 종로구 사직로 161",
+        "hours": "09:00 – 17:00 (11~12월 기준, 입장 마감 16:00) · 매주 화요일 휴궁",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/gyeongbok.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "용산구",
+    "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/yongsan.jpeg",
+    "spots": [
+      {
+        "id": 4,
+        "name": "숙명여자대학교",
+        "category": "대학교",
+        "description": "1906년 대한제국 황실이 세운 명신여학교에서 출발한 여자대학교. 캠퍼스 안에 역사관과 박물관이 있고 숙대입구역과 가깝다.",
+        "address": "서울 용산구 청파로47길 100",
+        "hours": "교내 시설별로 상이 (방문 전 학교 안내 확인)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/sookmyung.jpg"
+      },
+      {
+        "id": 5,
+        "name": "용산 아이파크몰",
+        "category": "쇼핑몰",
+        "description": "용산역과 바로 연결된 복합 쇼핑문화공간. 패션·리빙·문화 시설과 영화관, 서점, 식당가가 모여 있고 캐릭터·굿즈 매장이 많다.",
+        "address": "서울 용산구 한강대로23길 55",
+        "hours": "일~목 10:30 – 20:30 / 금·토 10:30 – 21:00 (매장별 상이)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/ipark.jpg"
+      },
+      {
+        "id": 6,
+        "name": "피롤츠 커피 하우스 용산점",
+        "category": "카페",
+        "description": "앤틱한 둥근 커피바와 다방 감성의 소품으로 꾸민 카페. 옛 다방 분위기가 나서 사진 찍기 좋다.",
+        "address": "서울 용산구 한강대로 56-1 2층",
+        "hours": "11:30 – 22:00 (금·토 ~23:30, SNS 기준이라 방문 전 확인)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/pirultz.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "마포구",
+    "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/mapo.jpg",
+    "spots": [
+      {
+        "id": 7,
+        "name": "투떰즈업",
+        "category": "베이커리",
+        "description": "망원동의 인기 베이커리. 쌀베이글과 맘모스빵, 꾸덕바가 대표 메뉴이고 밤·팥·완두 앙금을 매일 직접 만든다. 오픈런을 해도 줄이 길어 웨이팅은 각오해야 한다.",
+        "address": "서울 마포구 희우정로16길 53 1층",
+        "hours": "영업시간은 방문 전 확인 필요 (캐치테이블 예약 가능)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/twothumbsup.jpg"
+      },
+      {
+        "id": 8,
+        "name": "후와후와",
+        "category": "베이커리",
+        "description": "망원동의 샌드 베이글 맛집. 빵보다 크림소스가 풍성한 샌드가 인기이고, 팥방·소보로·소금빵 같은 기본 빵도 맛있다. 캐치테이블 예약을 추천한다.",
+        "address": "서울 마포구 월드컵로13길 79 1층",
+        "hours": "영업시간은 방문 전 확인 필요 (캐치테이블 예약 가능)",
+        "img_src": "https://raw.githubusercontent.com/yujudysm/my-city/main/hoowa.jpg"
+      },
+      {
+	"id":9,
+	"name": "카나모노룸",
+	"category" : "문구, 잡화",
+	"description" : "커피바와 소품샵이 합쳐진 작은 카페. 태양을 닮은 라떼아트가 인상적인 공간. 책상이 작기에 앉아서 카공은 힘들다.",
+	"address": "서울 마포구 방울내로5길 38 1층 102호",
+	"hours" : "월~수, 금~일: 12:00 ~ 20:00",
+	"img_src" : "https://raw.githubusercontent.com/yujudysm/my-city/main/kanamonoroom.jpg"
+      }
+    ]
+  }
+]
